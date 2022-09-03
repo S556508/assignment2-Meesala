@@ -14,6 +14,7 @@
    <li>Continue onto IGI Rd/Northern Access Rd</li>
    <li>Turn left Destination will be on the right</li>
 <ol>
+<h4>Other locations directions around the museum </h4>
 <ul>
     <li>Keep right at the fork and merge onto NH 48</li>
     <li>Take the exit</li>
