@@ -1,7 +1,7 @@
 <h6><b>Adilakshmi Meesala</b></h6>
 <p>I'am AdiLakshmi Meesala from Hyderabad.Currently I'm pursuing Masters in Northwest Missouri State unversity Maryville</p>
-<img src="/C:\Users\S556508\Desktop\lakshmi.jpg"></img>
-<b>
-<a href="About Me"</a>
-</b>
+<img src="/C:\Users\S556508\Desktop\lakshmi.jpg">
+
+<a href="Managing your profile README"</a>
+
 
