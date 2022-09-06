@@ -37,4 +37,12 @@
 <blockquote>Never look back unless you are planning to go that way---<i>​Henry David Thoreau</i></blockquote>
 <blockquote>“The most common way people give up their power is by thinking they don’t have any---<i>Alice Walker</i></blockquote>
 
+<hr>
+<h2>Code Fencing</h2>
+<pre><code>var foo = "bar";
+var hello = "world";
+console.log(foo);
+console.log(hello);</code></pre>
+<>
+
 
