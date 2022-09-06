@@ -8,16 +8,13 @@
 <table border="1">
 <tr>
 <th>Kansas City</th>
-<td>Kansas City in missouri state</td>
-</tr>
-<tr>
 <th>Lake of the Ozarks</th>
-<td>The Midwest’s most popular lake resort destination</td>
+<th>amount of time to spend visiting</th>
 </tr>
 <tr>
-<th>amount of time to spend visiting</th>
+<td>Kansas City in missouri state</td>
+<td>The Midwest’s most popular lake resort destination</td>
 <td>1 to 2hrs we can spend time to visit</td>
 </tr>
-</table>
 
 
