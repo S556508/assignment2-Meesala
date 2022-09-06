@@ -31,5 +31,9 @@
 <td>Universal Orlando Resort</td>
 <td>1 to 2hrs we can spend time to visit</td>
 </tr>
+<hr>
+<h5>quote section</h5>
+<blockquote>Never look back unless you are planning to go that way<i>​Henry David Thoreau</i></blockquote>
+<blockquote>“The most common way people give up their power is by thinking they don’t have any<i>Alice Walker</i></blockquote>
 
 
