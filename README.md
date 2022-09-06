@@ -23,5 +23,5 @@
     <li>Turn Right Destination will be on the right</li>
 </ul>
 
-<p>This link indicates about me </p>
+<b>This link indicates about me <b>
 <a href = "http://www.google.com">About Me</a>
