@@ -31,6 +31,7 @@
 <td>Universal Orlando Resort</td>
 <td>1 to 2hrs we can spend time to visit</td>
 </tr>
+</table>
 <hr>
 <h5>quote section</h5>
 <blockquote>Never look back unless you are planning to go that way<i>​Henry David Thoreau</i></blockquote>
