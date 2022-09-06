@@ -24,4 +24,6 @@
 </ul>
 
 <b>This link indicates about me <b>
+<br>
 <a href = "http://www.google.com">About Me</a>
+</br>
