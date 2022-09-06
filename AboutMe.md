@@ -8,14 +8,15 @@
 <table border="1">
 <tr>
 <th>Kansas City</th>
+<td>Kansas City in missouri state</td>
 </tr>
 <tr>
 <th>Lake of the Ozarks</th>
-<td>Table cell 1</td><td>Table cell 2</td>
+<td>The Midwest’s most popular lake resort destination</td>
 </tr>
 <tr>
 <th>amount of time to spend visiting</th>
-<td>Table cell 3</td><td>Table cell 4</td>
+<td>1 to 2hrs we can spend time to visit</td>
 </tr>
 </table>
 
