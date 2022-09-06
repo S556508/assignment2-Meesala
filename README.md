@@ -22,5 +22,7 @@
     <li>Slight left after Pillar Number LLP10 </li>
     <li>Turn Right Destination will be on the right</li>
 </ul>
-<p>this link display the bottom of the README File</p>
-<a href = "http://www.google.com">About Me</a>
+<br>
+<p><b>This link display the bottom of the README File</b></p>
+<a href = "http://www.google.com"><h4>About Me</h4></a>
+</br>
