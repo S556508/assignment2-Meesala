@@ -33,8 +33,8 @@
 </tr>
 </table>
 <hr>
-<h5>quote section</h5>
-<blockquote>Never look back unless you are planning to go that way<i>​Henry David Thoreau</i></blockquote>
-<blockquote>“The most common way people give up their power is by thinking they don’t have any<i>Alice Walker</i></blockquote>
+<h2>Quote Section</h2>
+<blockquote>Never look back unless you are planning to go that way---<i>​Henry David Thoreau</i></blockquote>
+<blockquote>“The most common way people give up their power is by thinking they don’t have any---<i>Alice Walker</i></blockquote>
 
 
