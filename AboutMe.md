@@ -7,13 +7,23 @@
 <p>Best Places to Visit in Missouri state in USA</p>
 <table border="1">
 <tr>
-<th>Kansas City</th>
+<th>Name of the City</th>
 <th>Lake of the Ozarks</th>
 <th>amount of time to spend visiting</th>
 </tr>
 <tr>
 <td>Kansas City in missouri state</td>
 <td>The Midwest’s most popular lake resort destination</td>
+<td>1 to 2hrs we can spend time to visit</td>
+</tr>
+<tr>
+<td>Dallas</td>
+<td>The Dallas Zoo is one of the coolest things to do in Dallas for animal lovers</td>
+<td>1 to 2hrs we can spend time to visit</td>
+</tr>
+<tr>
+<td>Chicago</td>
+<td>Millennium Park</td>
 <td>1 to 2hrs we can spend time to visit</td>
 </tr>
 
