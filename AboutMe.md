@@ -38,27 +38,38 @@
 <blockquote>“The most common way people give up their power is by thinking they don’t have any---<i>Alice Walker</i></blockquote>
 
 <hr>
-Stephen King
-# Code Fencing
-_ _ _
-> What does that mixin mean.
-[stackoverflow](https://stackoverflow.com/questions/54974250/what-does-this-mixin-mean)
+<h5>Code Fencing</h5>
 
-/// Gives a card depth effect.
-/// @param {Number} $depth - depth level (between 1 and 5)
-/// @link http://www.google.com/design/spec/layout/layout-principles.html#layout-principles-dimensionality Google Design
-/// @requires {function} top-shadow
-/// @requires {function} bottom-shadow
-@mixin card($depth) {
-  @if $depth < 1 {
-    box-shadow: none;
-  } @else if $depth > 5 {
-    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
-  } @else {
-    box-shadow: bottom-shadow($depth), top-shadow($depth);  
+<blockquote>sort properties in .sass files automaticaly</blockquote>
+
+<a href="https://stackoverflow.com/questions/57286768/how-to-sort-sass-properties-for-example-in-alphabetical-order"> How to sort Sass properties</a>
+
+<code> 
+@function quick-sort($list) {
+  $less:  ();
+  $equal: ();
+  $large: ();
+
+  @if length($list) > 1 {
+    $seed: nth($list, ceil(length($list) / 2));
+
+    @each $item in $list {
+      @if ($item == $seed) {
+        $equal: append($equal, $item);
+      } @else if ($item < $seed) {
+        $less: append($less, $item);
+      } @else if ($item > $SEED) {
+        $large: append($large, $item);
+      }
+    }
+
+    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
   }
-}
 
-[Snippet Source](https://css-tricks.com/snippets/sass/material-shadows-mixin/)
+  @return $list;
+}
+</code>
+
+<a href="https://css-tricks.com/snippets/sass/sorting-function/"> Sorting Function</a>
 
 
