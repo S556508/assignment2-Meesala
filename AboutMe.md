@@ -45,28 +45,30 @@
 <a href="https://stackoverflow.com/questions/57286768/how-to-sort-sass-properties-for-example-in-alphabetical-order"> How to sort Sass properties</a>
 
 <code> 
-@function quick-sort($list) {
-  $less:  ();
-  $equal: ();
-  $large: ();
-
-  @if length($list) > 1 {
-    $seed: nth($list, ceil(length($list) / 2));
-
-    @each $item in $list {
-      @if ($item == $seed) {
-        $equal: append($equal, $item);
-      } @else if ($item < $seed) {
-        $less: append($less, $item);
-      } @else if ($item > $SEED) {
-        $large: append($large, $item);
-      }
-    }
-
-    @return join(join(quick-sort($less, $order), $equal), quick-sort($large, $order));
+/// Compares two string to determine which comes first
+/// @access private
+/// @param {String} $a - first string
+/// @parem {String} $b - second string
+/// @param {List} $order - order to deal with
+/// @return {Bool}
+@function _str-compare($a, $b, $order) {
+  @if type-of($a) == "number" and type-of($b) == "number" {
+    @return $a < $b;
   }
 
-  @return $list;
+  $a: to-lower-case($a + unquote(""));
+  $b: to-lower-case($b + unquote(""));
+
+  @for $i from 1 through min(str-length($a), str-length($b)) {
+    $char-a: str-slice($a, $i, $i);
+    $char-b: str-slice($b, $i, $i);
+
+    @if $char-a and $char-b and index($order, $char-a) != index($order, $char-b) {
+      @return index($order, $char-a) < index($order, $char-b);
+    }
+  }
+
+  @return str-length($a) < str-length($b);
 }
 </code>
 
