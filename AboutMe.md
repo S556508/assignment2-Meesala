@@ -39,7 +39,9 @@
 
 <hr>
 <h6>Code Fencing</h6>
+
 <blockquote>sort properties in .sass files automaticaly</blockquote>
+
 <a href="https://stackoverflow.com/questions/57286768/how-to-sort-sass-properties-for-example-in-alphabetical-order"> How to sort Sass properties</a>
 
 <code> 
@@ -69,5 +71,4 @@
 </code>
 
 <a href="https://css-tricks.com/snippets/sass/sorting-function/"> Sorting Function</a>
-
 
