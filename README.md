@@ -4,15 +4,13 @@
 The National Museum in New Delhi, also known as the **National Museum**, of India, is one of the largest museums in India. **Established in 1949**, it holds a variety of articles ranging from pre-historic era to modern works of art.
 ------
 
-# The way to Airport to Museum</b></h4>
-
+# The way to Airport to Museum
 # step by step directions for traveling to the museum from the airport
-
-1.Head west toward T3 Arrival Rd
-2.Continue onto T3 Arrival Rd
-3.Continue onto Indira Gandhi International T3 Rd
-4.Continue onto IGI Rd/Northern Access Rd
-5.Turn left Destination will be on the right
+1. Head west toward T3 Arrival Rd
+2. Continue onto T3 Arrival Rd
+3. Continue onto Indira Gandhi International T3 Rd
+4. Continue onto IGI Rd/Northern Access Rd
+5. Turn left Destination will be on the right
 
 # Other locations directions around the museum
 
