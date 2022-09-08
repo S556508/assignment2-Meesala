@@ -1,10 +1,14 @@
 # assignment2-Meesala
 # AdiLakshmi Meesala 
-###### National Museum Delhi
+
+###### National Museum Delhi 
+
 The National Museum in New Delhi, also known as the **National Museum**, of India, is one of the largest museums in India. **Established in 1949**, it holds a variety of articles ranging from pre-historic era to modern works of art.
+
 ------
 
 # The way to Airport to Museum
+
 # step by step directions for traveling to the museum from the airport
 1. Head west toward T3 Arrival Rd
 2. Continue onto T3 Arrival Rd
