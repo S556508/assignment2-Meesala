@@ -1,29 +1,65 @@
 # assignment2-Meesala
-<h1>AdiLakshmi Meesala</h1>
-<h6>National Museum Delhi</h6>
-<p>The National Museum in New Delhi, also known as the <b>National Museum</b> of India, is one of the largest museums in India. <b>Established in 1949</b>, it holds a variety of articles ranging from pre-historic era to modern works of art
-</p>
+# AdiLakshmi Meesala 
+###### National Museum Delhi
+The National Museum in New Delhi, also known as the **National Museum**, of India, is one of the largest museums in India. **Established in 1949**, it holds a variety of articles ranging from pre-historic era to modern works of art.
+------
 
-<h4><b>The way to Airport to Museum</b></h4>
-<hr>
-<h4> </b>step by step directions for traveling to the museum from the airport</b></h4>
-<ol>
-   <li>Head west toward T3 Arrival Rd</li>
-   <li>Continue onto T3 Arrival Rd</li>
-   <li>Continue onto Indira Gandhi International T3 Rd</li>
-   <li>Continue onto IGI Rd/Northern Access Rd</li>
-   <li>Turn left Destination will be on the right</li>
-<ol>
-<h4>Other locations directions around the museum </h4>
-<ul>
-    <li>Keep right at the fork and merge onto NH 48</li>
-    <li>Take the exit</li>
-    <li>Keep right at the fork</li>
-    <li>Slight left after Pillar Number LLP10 </li>
-    <li>Turn Right Destination will be on the right</li>
-</ul>
+# The way to Airport to Museum</b></h4>
 
-<b>This link indicates about me <b>
-<br>
-<a href = "http://www.google.com">About Me</a>
-</br>
+# step by step directions for traveling to the museum from the airport
+
+   1.Head west toward T3 Arrival Rd
+   2.Continue onto T3 Arrival Rd
+   3.Continue onto Indira Gandhi International T3 Rd
+   4.Continue onto IGI Rd/Northern Access Rd
+   5.Turn left Destination will be on the right
+
+# Other locations directions around the museum
+
+    - Keep right at the fork and merge onto NH 48
+    - Take the exit
+    - Keep right at the fork
+    - Slight left after Pillar Number LLP10
+    - Turn Right Destination will be on the right
+
+    *[About me](AboutMe.md)*
+    ---
+# Tables
+The below table gives the information on the name of a city, important location to visit in the city and the amount of time to spend visiting the important location  
+
+| City Name | Location Name | Location Name|
+| Agra | Taj Mahal | 5 hours |
+| Delhi | Red Fort | 3 hours |
+| Amritsar | Sri Harmandir Sahib | 6 hours |
+| Mysuru | Mysore Palace | 8 hours |
+
+---
+# Pithy Quotes
+> Start before you’re ready
+
+*Steven Pressfield*
+
+> Difficulties mastered are opportunities won
+
+*Winston Churchill*
+
+---
+# Code Fencing
+> String replace in Sass
+
+[String replace in Sass](https://stackoverflow.com/questions/12728634/string-replace-in-sass)
+
+```
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + 
+    str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+  
+  @return $string;
+}
+```
+
+[Str-replace Function](https://css-tricks.com/snippets/sass/str-replace-function/)
